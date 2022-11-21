@@ -61,4 +61,4 @@ form_main {
 .form_main .form .form1 .txt{color: black;}
 
 #flexRadioDefault1{display: block;}
-#flexRadioDefault2{display: inline;}
+#flexRadioDefault2{display: inline !important;}
